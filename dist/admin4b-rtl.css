@@ -54,6 +54,7 @@ body{
 
 .app .app-body .app-sidebar.sidebar-slide-left{
     float: right;
+    right: 0;
 }
 
 .app .app-body .app-sidebar .sidebar-nav>.sidebar-nav-group>.sidebar-nav-link::after{

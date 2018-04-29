@@ -83,6 +83,27 @@ body{
 /************************/
 /* General */
 /************************/
+
+.callout{
+    border-left: 0.0625rem solid #ced4da;
+    border-right: 0.25rem solid  #ced4da;
+}
+.callout.callout-warning {
+    border-left: 0.0625rem solid #ced4da;
+    border-right: 0.25rem solid  #f1c40f;
+}
+.callout.callout-info{
+    border-left: 0.0625rem solid #ced4da;
+    border-right: 0.25rem solid  #3498db;
+}
+.callout.callout-danger{
+    border-left: 0.0625rem solid #ced4da;
+    border-right: 0.25rem solid  #e74c3c;
+}
+.source-code{
+    direction: ltr;
+    text-align: left;
+}
 .rtl{
     direction: rtl;
 }

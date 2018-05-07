@@ -110,4 +110,12 @@ body{
 .ltr{
     direction: ltr;
 }
+code{
+    direction: ltr;
+    display: inline-block;
+}
+pre code{
+    direction: ltr;
+    display: block;
+}
 
